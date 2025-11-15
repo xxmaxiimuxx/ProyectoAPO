@@ -1,9 +1,0 @@
-com\mycompany\project1_javaweb\JakartaRestConfiguration.class
-com\mycompany\project1_javaweb\resources\JakartaEE10Resource.class
-modelo\GestionarUsuarios.class
-modelo\Persona.class
-modelo\Producto.class
-modelo\GestionarProductos.class
-modelo\Usuario.class
-servlets\UsuariosServlet.class
-servlets\ProductosServlet.class
